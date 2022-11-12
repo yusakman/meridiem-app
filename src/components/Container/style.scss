@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+  .token-logo {
+    font-size: 100px;
+    color: #ff8aa6;
+    height: 100px;
+  }
+
+  .token-logo:hover {
+    cursor: pointer;
+  }
+}
